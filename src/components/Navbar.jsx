@@ -22,7 +22,7 @@ const Navbar = () => {
           <img
             src={logo}
             alt="logo"
-            className="w-2 h-2 object-contain" // Adjust the width and height here
+            className="w-2 h-2 object-contain"
           />
           
         </Link>
